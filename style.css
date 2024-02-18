@@ -1,0 +1,24 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+    padding: 50px;
+    background-color: #7a5dbf; /* Purple shade */
+    color: #ffffff;
+    height: 100vh;
+}
+
+a {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #ffffff;
+    color: #7a5dbf;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
